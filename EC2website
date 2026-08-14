@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>Deployed using GitHub Actions, Docker Hub and AWS EC2.</p>
+</body>
+</html>
